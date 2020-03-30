@@ -4,6 +4,6 @@ This repository intentially contains no files. Instead, this README file contain
 
 - [Genome assembly: lecture + Jupyter notebook / assignment](https://github.com/algbio/Introduction-to-Applied-Bioinformatics). There were part of a course named "Introduction to Applied Bioinformatics", targeted to Life Science Informatics students
 
-Unless specified otherwise, all the materials are released under the X license. I
+Unless otherwise specified, all the materials are released under the X license.
 
-f you use them, please sign the guestbook, by leaving a comment here: https://github.com/algbio/teaching-materials/issues/1#issue-590171328
+If you use them, please sign the guestbook, by leaving a comment here: https://github.com/algbio/teaching-materials/issues/1#issue-590171328

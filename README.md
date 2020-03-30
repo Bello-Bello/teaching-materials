@@ -6,4 +6,4 @@ This repository intentially contains no files. Instead, this README file contain
 
 Unless otherwise specified, all materials are released under the X license.
 
-If you use them, please sign the guestbook, by leaving a comment here: https://github.com/algbio/teaching-materials/issues/1#issue-590171328
+If you use them, please sign the guestbook, by leaving a comment in [**this github issue**](https://github.com/algbio/teaching-materials/issues/1#issue-590171328).

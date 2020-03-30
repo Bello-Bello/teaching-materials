@@ -1,4 +1,4 @@
-# teaching-materials
+# Teaching materials of the Algorithmic Bioinformatics Group @ University of Helsinki
 
 # Usage 
 
